@@ -2,6 +2,8 @@ show databases;
 create database BankingDB;   #DDL Command
 use BankingDB;
 
+
+
 CREATE TABLE Customers(
 	CustomerID INT,
     FirstName VARCHAR(50),
